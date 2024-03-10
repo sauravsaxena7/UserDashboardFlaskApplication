@@ -1,4 +1,4 @@
-import mysql.connector
+#import mysql.connector
 import json
 from flask import make_response
 from app import db,Userss

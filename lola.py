@@ -1,6 +1,8 @@
 #python -m venv venv
 #.\venv\Scripts\activate
 #pip install flask
+#pip install mysqlclient
+#pip install PyMySQL
 #python.exe -m pip install --upgrade pip
 #DECORATOR STARTS WITH @app.name()
 #$env:FLASK_ENV="development"

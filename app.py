@@ -1,8 +1,8 @@
 from flask import Flask
-from sqlalchemy import create_engine
+
 from datetime import datetime
 from flask_sqlalchemy import SQLAlchemy
-import pandas as pd
+
 from flask_cors import CORS, cross_origin
 hostname="localhost"
 username="root"
